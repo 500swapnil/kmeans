@@ -1,8 +1,8 @@
 # K-means compression algorithm
 A python implementation of the kmeans algorithm to compress png and jpg files.
 
-![picture](img/sample.jpg)
-![picture](img/test.jpg)
+![picture](sample.jpg)
+![picture](test.jpg)
 
 # Prerequisites
 - Python3.5 or above
