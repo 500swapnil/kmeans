@@ -1,10 +1,11 @@
 # K-means compression algorithm
-A python implementation of the kmeans algorithm to compress png and jpg files.
+A python implementation of the k-means clustering algorithm to compress png and jpg files.
 
 ![picture](sample.jpg)
 Before - 507 KB
+
 ![picture](test.jpg)
-After - 145 KB
+After (with 32 colours) - 145 KB
 
 # Prerequisites
 - Python3.5 or above
