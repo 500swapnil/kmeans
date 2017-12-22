@@ -89,7 +89,7 @@ def kmeans(k,image_data,iterations):
 # In[44]:
 
 
-compressed = kmeans(16,image,5)                     # kmeans(No. of colors, image, No. of iterations)
+compressed = kmeans(32,image,10)                     # kmeans(No. of colors, image, No. of iterations)
 
 
 # In[45]:
@@ -117,6 +117,6 @@ plt.show()
 # In[48]:
 
 
-im.save('test.png')
+# im.save('test.png')
 im.save('test.jpg')
 
